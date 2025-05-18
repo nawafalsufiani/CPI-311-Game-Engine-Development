@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Project2/Content/File.spritefont","C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Project2/Content/bin/Windows/font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.2554744
+"C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Project2/Content/Heightmap.png","C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Project2/Content/bin/Windows/Heightmap.xnb","TextureProcessor","Texture2DContent",37557,264281,0.1316601
+"C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Project2/Content/Normalmap.png","C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Project2/Content/bin/Windows/Normalmap.xnb","TextureProcessor","Texture2DContent",63954,264281,0.0084898
+"C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Project2/Content/SimpleShading.fx","C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Project2/Content/bin/Windows/SimpleShading.xnb","EffectProcessor","CompiledEffectContent",5139,5727,0.2849983
+"C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Project2/Content/TerrainShader.fx","C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Project2/Content/bin/Windows/TerrainShader.xnb","EffectProcessor","CompiledEffectContent",2332,2634,0.2601586

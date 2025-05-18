@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/../../../../../../Downloads/TerrainShader.fx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/File.spritefont</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/mazeH (1).png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/mazeH2.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/mazeN.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/mazeN2.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/pacmanMapH.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/pacmanMapN.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/player.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/prize.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/SimpleShading.fx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/Sphere.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/Square.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/Sun.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/Torus.fbx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment5/Content/yellowTexture.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>TerrainShader.fx</File>
+    <File>Arial.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

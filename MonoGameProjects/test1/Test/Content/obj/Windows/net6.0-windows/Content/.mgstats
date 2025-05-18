@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Test/Content/File.spritefont","C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Test/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.218635
+"C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Test/Content/Shader.fx","C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Test/Content/bin/Windows/Content/Shader.xnb","EffectProcessor","CompiledEffectContent",1289,1851,0.3474481
+"C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Test/Content/SimpleShading.fx","C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Test/Content/bin/Windows/Content/SimpleShading.xnb","EffectProcessor","CompiledEffectContent",5139,5727,0.3933468
+"C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Test/Content/Sphere.FBX","C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Test/Content/bin/Windows/Content/Sphere.xnb","ModelProcessor","ModelContent",39360,24315,0.2464468
+"C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Test/Content/Square.png","C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Test/Content/bin/Windows/Content/Square.xnb","TextureProcessor","Texture2DContent",213,4181,0.1198113
+"C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Test/Content/Torus.fbx","C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Test/Content/bin/Windows/Content/Torus.xnb","ModelProcessor","ModelContent",27936,14521,0.1970544

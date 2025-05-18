@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/../../Assignment5/Content/yellowTexture.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/Arial.fx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/background.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/cube.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/dots.fbx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/Earth.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/File.spritefont</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/Ghost： Normal Move.wav</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/Ghost： Return to Home.wav</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/Ghost： Turn to Blue.wav</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/ghost.fbx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/Heightmap.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/mazeH (1).png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/mazeH2.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/mazeN.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/mazeN2.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/Normalmap.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/PacColor.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/pacman_beginning.wav</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/pacman_chomp.wav</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/pacman_death.wav</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/pacman_eatfruit.wav</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/pacman_eatghost.wav</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/pacman.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/pacmanLogo.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/PacProgress.fbx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/player.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/powerUp.fbx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/SimpleShading.fx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/smb_pause.wav</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/Sphere.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/Square.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/Sun.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/TerrainShader.fx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/Torus.fbx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/yellowTexture.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>yellowTexture.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Arial.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

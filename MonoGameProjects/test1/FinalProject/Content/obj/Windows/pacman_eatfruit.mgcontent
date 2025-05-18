@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/pacman_eatfruit.wav</SourceFile>
+  <SourceTime>2004-04-03T11:28:06-07:00</SourceTime>
+  <DestFile>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/FinalProject/Content/bin/Windows/pacman_eatfruit.xnb</DestFile>
+  <DestTime>2024-12-10T12:06:06.0178735-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T04:44:56-07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T04:44:56-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

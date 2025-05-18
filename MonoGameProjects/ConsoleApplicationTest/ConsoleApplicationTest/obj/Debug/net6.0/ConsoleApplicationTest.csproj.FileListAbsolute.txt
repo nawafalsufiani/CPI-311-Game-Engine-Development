@@ -1,0 +1,14 @@
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\net6.0\ConsoleApplicationTest.exe
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\net6.0\ConsoleApplicationTest.deps.json
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\net6.0\ConsoleApplicationTest.runtimeconfig.json
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\net6.0\ConsoleApplicationTest.dll
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\ConsoleApplicationTest\ConsoleApplicationTest\bin\Debug\net6.0\ConsoleApplicationTest.pdb
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\net6.0\ConsoleApplicationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\net6.0\ConsoleApplicationTest.AssemblyInfoInputs.cache
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\net6.0\ConsoleApplicationTest.AssemblyInfo.cs
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\net6.0\ConsoleApplicationTest.csproj.CoreCompileInputs.cache
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\net6.0\ConsoleApplicationTest.dll
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\net6.0\refint\ConsoleApplicationTest.dll
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\net6.0\ConsoleApplicationTest.pdb
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\net6.0\ConsoleApplicationTest.genruntimeconfig.cache
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\ConsoleApplicationTest\ConsoleApplicationTest\obj\Debug\net6.0\ref\ConsoleApplicationTest.dll

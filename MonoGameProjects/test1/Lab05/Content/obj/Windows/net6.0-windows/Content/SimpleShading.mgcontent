@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Lab05/Content/../../../SimpleShading.fx</SourceFile>
+  <SourceTime>2024-10-22T18:11:01.8384752-07:00</SourceTime>
+  <DestFile>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Lab05/Content/bin/Windows/Content/SimpleShading.xnb</DestFile>
+  <DestTime>2024-11-08T10:23:25.0388938-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2022-07-26T04:44:56-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T04:44:56-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

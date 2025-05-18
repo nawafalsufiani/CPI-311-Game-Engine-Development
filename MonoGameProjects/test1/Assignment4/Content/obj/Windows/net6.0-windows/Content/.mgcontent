@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/asteroid.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/asteroid4.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/bullet.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/bulletAstroid.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/bulletSpace.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/BulletTexture.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/engine_2.wav</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/explosion2.wav</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/explosion3.wav</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/fire.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/font.spritefont</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/hyperspace_activate.wav</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/p1_wedge.fbx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/ParticleShader-complete.fx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/ship.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/spaceshipTexture.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/Sphere.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/Square.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Assignment4/Content/tx0_fire1.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Arial.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

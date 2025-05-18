@@ -1,0 +1,5 @@
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\test1\Project1\obj\Debug\net6.0-windows\lab01.csproj.AssemblyReference.cache
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\test1\Project1\obj\Debug\net6.0-windows\lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\test1\Project1\obj\Debug\net6.0-windows\lab01.AssemblyInfoInputs.cache
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\test1\Project1\obj\Debug\net6.0-windows\lab01.AssemblyInfo.cs
+C:\Users\nawaf\OneDrive\Desktop\MonoGameProjects\test1\Project1\obj\Debug\net6.0-windows\lab01.csproj.CoreCompileInputs.cache

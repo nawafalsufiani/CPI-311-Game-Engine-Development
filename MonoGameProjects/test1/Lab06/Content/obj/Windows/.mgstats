@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Lab06/Content/File.spritefont","C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Lab06/Content/bin/Windows/font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.2616177
+"C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Lab06/Content/Sphere.FBX","C:/Users/nawaf/OneDrive/Desktop/MonoGameProjects/test1/Lab06/Content/bin/Windows/Sphere.xnb","ModelProcessor","ModelContent",39360,24315,0.1394642
